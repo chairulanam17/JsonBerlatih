@@ -1,0 +1,58 @@
+[
+    {
+        "ID Pembelajaran": 1,
+        "Nama Pelajaran": "Matematika",
+        "id Materi": 1,
+        "Materi": "TES KEMAMPUAN AKADEMIK (TKA)-MATEMATIKA SAINTEK-TO AKBAR UTBK 1",
+        "videoUrl": "https://lms.bintangpelajar.com/video_pembelajaran/video_playlist?id=MTcxNDgxNDUyLTUyMg=="
+    },
+    {
+        "ID Pembelajaran": 1,
+        "Nama Pelajaran": "Matematika",
+        "id Materi": 2,
+        "Materi": "TES KEKMPUAN AKADEMIK- MATEMATIKA SOSHUM-TO AKBAR UTBK 1",
+        "videoUrl": "https://lms.bintangpelajar.com/video_pembelajaran/video_playlist?id=NzM3MDE0NDEzLTUyMw=="
+    },
+    {
+        "ID Pembelajaran": 1,
+        "Nama Pelajaran": "Matematika",
+        "id Materi": 3,
+        "Materi": "PEMBAHASAN TRY OUT 2 REGULER UTBK SBMPTN 2020-2021(MTK SAINTEK",
+        "videoUrl": "https://lms.bintangpelajar.com/video_pembelajaran/video_playlist?id=MTQwMDE1MzczNC02MTA="
+    },
+    {
+        "ID Pembelajaran": 1,
+        "Nama Pelajaran": "Matematika",
+        "id Materi": 4,
+        "Materi": "KELAS 12. MATEMATIKA WAJIB BAB 1_DIMENSI 3",
+        "videoUrl": "https://lms.bintangpelajar.com/video_pembelajaran/video_playlist?id=MjE0NTg3MDc1NS0xNg=="
+    },
+    {
+        "ID Pembelajaran": 1,
+        "Nama Pelajaran": "Matematika",
+        "id Materi": 5,
+        "Materi": "KELAS 12 MATEMATIKA PEMINATAN - INTEGRAL TRIGONOMETRI (BAGIAN 1)",
+        "videoUrl": "https://lms.bintangpelajar.com/video_pembelajaran/tampil?id=NzQyMjU4Mjc4LTU0MA=="
+    },
+    {
+        "ID Pembelajaran": 1,
+        "Nama Pelajaran": "Matematika",
+        "id Materi": 6,
+        "Materi": "KELAS 12 MATEMATIKA PEMINATAN - INTEGRAL TRIGONOMETRI (BAGIAN 2)",
+        "videoUrl": "https://lms.bintangpelajar.com/video_pembelajaran/tampil?id=MTEzMDQwNTY5MS01NDE="
+    },
+    {
+        "ID Pembelajaran": 1,
+        "Nama Pelajaran": "Matematika",
+        "id Materi": 7,
+        "Materi": "KELAS 12 MATEMATIKA PEMINATAN - LIMIT TRIGONOMETRI",
+        "videoUrl": "https://lms.bintangpelajar.com/video_pembelajaran/video_playlist?id=MTE4Mzg1MDAzMi01NDY="
+    },
+    {
+        "ID Pembelajaran": 1,
+        "Nama Pelajaran": "Matematika",
+        "id Materi": 8,
+        "Materi": "KELAS 12 MATEMATIKA PEMINATAN - BAB III STATISTIK INFERENSIA (PERTEMUAN 1)",
+        "videoUrl": "https://lms.bintangpelajar.com/video_pembelajaran/tampil?id=MzQ4MjU2NjkxLTMwMA=="
+    }
+]
